@@ -15,7 +15,6 @@ function createPromise(position, delay) {
   })
 }
 
- 
 function runCreatePromises(event) {
   event.preventDefault();
   const inputData = new FormData(event.currentTarget);

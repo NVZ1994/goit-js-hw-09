@@ -31,6 +31,7 @@ const options = {
     }
   },
 };
+
 flatpickr(datePicker, options);
 startBtn.addEventListener('click', changeTimerValue)
 
