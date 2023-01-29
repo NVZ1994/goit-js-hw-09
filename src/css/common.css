@@ -16,3 +16,21 @@ img {
   display: block;
   max-width: 100%;
 }
+
+input {
+  font-weight: 500;
+  border-radius: 5px;
+
+}
+
+.timer {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+}
+
+.value {
+  display: block;
+  font-weight: 600;
+  text-align: center;
+}
