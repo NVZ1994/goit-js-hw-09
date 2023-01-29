@@ -24,4 +24,3 @@ const onStopBtnClick = () => {
 
 refs.startBtn.addEventListener('click', onStartBtnClick)
 refs.stopBtn.addEventListener('click', onStopBtnClick)
-
